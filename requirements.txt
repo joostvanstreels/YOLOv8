@@ -46,4 +46,3 @@ py-cpuinfo  # display CPU info
 
 # Extras Joost --------------------------------
 scikit-learn
-opencv
